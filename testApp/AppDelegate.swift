@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  testApp
+//  allPrototype
 //
-//  Created by Dylan Shane on 3/19/18.
-//  Copyright © 2018 Dylan Shane. All rights reserved.
+//  Created by Dylan Shane on 6/27/17.
+//  Copyright © 2017 Dylan Shane. All rights reserved.
 //
 
 import UIKit
