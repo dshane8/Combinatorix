@@ -7,21 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		85FCC5AA20603D7100FF9D62 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FCC5A920603D7100FF9D62 /* AppDelegate.swift */; };
-		85FCC5AC20603D7200FF9D62 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 85FCC5AB20603D7200FF9D62 /* ViewController.swift */; };
-		85FCC5AF20603D7200FF9D62 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85FCC5AD20603D7200FF9D62 /* Main.storyboard */; };
-		85FCC5B120603D7200FF9D62 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85FCC5B020603D7200FF9D62 /* Assets.xcassets */; };
-		85FCC5B420603D7200FF9D62 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85FCC5B220603D7200FF9D62 /* LaunchScreen.storyboard */; };
+		855C3A50206159C4008F0A37 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 855C3A4C206159C4008F0A37 /* LaunchScreen.storyboard */; };
+		855C3A51206159C4008F0A37 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 855C3A4E206159C4008F0A37 /* Main.storyboard */; };
+		855C3A5220616069008F0A37 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A3D20615869008F0A37 /* AppDelegate.swift */; };
+		855C3A5320616190008F0A37 /* antViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A3520615868008F0A37 /* antViewController.swift */; };
+		855C3A5420616190008F0A37 /* combController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A3620615868008F0A37 /* combController.swift */; };
+		855C3A5520616190008F0A37 /* combinationsThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A472061586B008F0A37 /* combinationsThreeViewController.swift */; };
+		855C3A5620616190008F0A37 /* combinationTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A4B2061586B008F0A37 /* combinationTwoViewController.swift */; };
+		855C3A5720616190008F0A37 /* computerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A4A2061586B008F0A37 /* computerViewController.swift */; };
+		855C3A5820616190008F0A37 /* dogsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A482061586B008F0A37 /* dogsViewController.swift */; };
+		855C3A5920616190008F0A37 /* drawLineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A422061586A008F0A37 /* drawLineView.swift */; };
+		855C3A5A20616190008F0A37 /* emojiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A3B20615869008F0A37 /* emojiViewController.swift */; };
+		855C3A5B20616190008F0A37 /* lollipopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A432061586A008F0A37 /* lollipopViewController.swift */; };
+		855C3A5C20616190008F0A37 /* passController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A3A20615869008F0A37 /* passController.swift */; };
+		855C3A5D20616190008F0A37 /* passwordOneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A452061586A008F0A37 /* passwordOneViewController.swift */; };
+		855C3A5E20616190008F0A37 /* passwordThreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A3F20615869008F0A37 /* passwordThreeViewController.swift */; };
+		855C3A5F20616190008F0A37 /* passwordTwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A402061586A008F0A37 /* passwordTwoViewController.swift */; };
+		855C3A6020616190008F0A37 /* permViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A3720615868008F0A37 /* permViewController.swift */; };
+		855C3A6120616190008F0A37 /* rootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A412061586A008F0A37 /* rootViewController.swift */; };
+		855C3A6220616190008F0A37 /* telephoneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A442061586A008F0A37 /* telephoneViewController.swift */; };
+		855C3A6320616190008F0A37 /* weddingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A462061586A008F0A37 /* weddingViewController.swift */; };
+		855C3A6420616190008F0A37 /* wordController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C3A3420615864008F0A37 /* wordController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		855C3A3420615864008F0A37 /* wordController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = wordController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/wordController.swift"; sourceTree = "<group>"; };
+		855C3A3520615868008F0A37 /* antViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = antViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/antViewController.swift"; sourceTree = "<group>"; };
+		855C3A3620615868008F0A37 /* combController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = combController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/combController.swift"; sourceTree = "<group>"; };
+		855C3A3720615868008F0A37 /* permViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = permViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/permViewController.swift"; sourceTree = "<group>"; };
+		855C3A3920615868008F0A37 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		855C3A3A20615869008F0A37 /* passController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = passController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/passController.swift"; sourceTree = "<group>"; };
+		855C3A3B20615869008F0A37 /* emojiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = emojiViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/emojiViewController.swift"; sourceTree = "<group>"; };
+		855C3A3D20615869008F0A37 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		855C3A3F20615869008F0A37 /* passwordThreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = passwordThreeViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/passwordThreeViewController.swift"; sourceTree = "<group>"; };
+		855C3A402061586A008F0A37 /* passwordTwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = passwordTwoViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/passwordTwoViewController.swift"; sourceTree = "<group>"; };
+		855C3A412061586A008F0A37 /* rootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = rootViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/rootViewController.swift"; sourceTree = "<group>"; };
+		855C3A422061586A008F0A37 /* drawLineView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = drawLineView.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/drawLineView.swift"; sourceTree = "<group>"; };
+		855C3A432061586A008F0A37 /* lollipopViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = lollipopViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/lollipopViewController.swift"; sourceTree = "<group>"; };
+		855C3A442061586A008F0A37 /* telephoneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = telephoneViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/telephoneViewController.swift"; sourceTree = "<group>"; };
+		855C3A452061586A008F0A37 /* passwordOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = passwordOneViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/passwordOneViewController.swift"; sourceTree = "<group>"; };
+		855C3A462061586A008F0A37 /* weddingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = weddingViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/weddingViewController.swift"; sourceTree = "<group>"; };
+		855C3A472061586B008F0A37 /* combinationsThreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = combinationsThreeViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/combinationsThreeViewController.swift"; sourceTree = "<group>"; };
+		855C3A482061586B008F0A37 /* dogsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = dogsViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/dogsViewController.swift"; sourceTree = "<group>"; };
+		855C3A492061586B008F0A37 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		855C3A4A2061586B008F0A37 /* computerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = computerViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/computerViewController.swift"; sourceTree = "<group>"; };
+		855C3A4B2061586B008F0A37 /* combinationTwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = combinationTwoViewController.swift; path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/combinationTwoViewController.swift"; sourceTree = "<group>"; };
+		855C3A4D206159C4008F0A37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = ../../../finalApp/Combinatorix/Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		855C3A4F206159C4008F0A37 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = ../../../finalApp/Combinatorix/Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		85FCC5A620603D7100FF9D62 /* testApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		85FCC5A920603D7100FF9D62 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		85FCC5AB20603D7200FF9D62 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		85FCC5AE20603D7200FF9D62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		85FCC5B020603D7200FF9D62 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		85FCC5B320603D7200FF9D62 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		85FCC5B520603D7200FF9D62 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +68,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		855C3A3C20615869008F0A37 /* Combinatorix */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Combinatorix;
+			path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/Combinatorix";
+			sourceTree = "<group>";
+		};
+		855C3A3E20615869008F0A37 /* Base.lproj */ = {
+			isa = PBXGroup;
+			children = (
+				855C3A4C206159C4008F0A37 /* LaunchScreen.storyboard */,
+				855C3A4E206159C4008F0A37 /* Main.storyboard */,
+			);
+			name = Base.lproj;
+			path = "../../../Documents/Dylan Homework/COLLEGE/Summer17/allPrototype/allPrototype/Base.lproj";
+			sourceTree = "<group>";
+		};
 		85FCC59D20603D7100FF9D62 = {
 			isa = PBXGroup;
 			children = (
@@ -54,12 +105,29 @@
 		85FCC5A820603D7100FF9D62 /* testApp */ = {
 			isa = PBXGroup;
 			children = (
-				85FCC5A920603D7100FF9D62 /* AppDelegate.swift */,
-				85FCC5AB20603D7200FF9D62 /* ViewController.swift */,
-				85FCC5AD20603D7200FF9D62 /* Main.storyboard */,
-				85FCC5B020603D7200FF9D62 /* Assets.xcassets */,
-				85FCC5B220603D7200FF9D62 /* LaunchScreen.storyboard */,
-				85FCC5B520603D7200FF9D62 /* Info.plist */,
+				855C3A3520615868008F0A37 /* antViewController.swift */,
+				855C3A3D20615869008F0A37 /* AppDelegate.swift */,
+				855C3A492061586B008F0A37 /* Assets.xcassets */,
+				855C3A3E20615869008F0A37 /* Base.lproj */,
+				855C3A3620615868008F0A37 /* combController.swift */,
+				855C3A472061586B008F0A37 /* combinationsThreeViewController.swift */,
+				855C3A4B2061586B008F0A37 /* combinationTwoViewController.swift */,
+				855C3A3C20615869008F0A37 /* Combinatorix */,
+				855C3A4A2061586B008F0A37 /* computerViewController.swift */,
+				855C3A482061586B008F0A37 /* dogsViewController.swift */,
+				855C3A422061586A008F0A37 /* drawLineView.swift */,
+				855C3A3B20615869008F0A37 /* emojiViewController.swift */,
+				855C3A3920615868008F0A37 /* Info.plist */,
+				855C3A432061586A008F0A37 /* lollipopViewController.swift */,
+				855C3A3A20615869008F0A37 /* passController.swift */,
+				855C3A452061586A008F0A37 /* passwordOneViewController.swift */,
+				855C3A3F20615869008F0A37 /* passwordThreeViewController.swift */,
+				855C3A402061586A008F0A37 /* passwordTwoViewController.swift */,
+				855C3A3720615868008F0A37 /* permViewController.swift */,
+				855C3A412061586A008F0A37 /* rootViewController.swift */,
+				855C3A442061586A008F0A37 /* telephoneViewController.swift */,
+				855C3A462061586A008F0A37 /* weddingViewController.swift */,
+				855C3A3420615864008F0A37 /* wordController.swift */,
 			);
 			path = testApp;
 			sourceTree = "<group>";
@@ -96,6 +164,7 @@
 				TargetAttributes = {
 					85FCC5A520603D7100FF9D62 = {
 						CreatedOnToolsVersion = 9.2;
+						LastSwiftMigration = 0920;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -123,9 +192,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				85FCC5B420603D7200FF9D62 /* LaunchScreen.storyboard in Resources */,
-				85FCC5B120603D7200FF9D62 /* Assets.xcassets in Resources */,
-				85FCC5AF20603D7200FF9D62 /* Main.storyboard in Resources */,
+				855C3A50206159C4008F0A37 /* LaunchScreen.storyboard in Resources */,
+				855C3A51206159C4008F0A37 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -136,28 +204,45 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				85FCC5AC20603D7200FF9D62 /* ViewController.swift in Sources */,
-				85FCC5AA20603D7100FF9D62 /* AppDelegate.swift in Sources */,
+				855C3A5320616190008F0A37 /* antViewController.swift in Sources */,
+				855C3A5420616190008F0A37 /* combController.swift in Sources */,
+				855C3A5520616190008F0A37 /* combinationsThreeViewController.swift in Sources */,
+				855C3A5620616190008F0A37 /* combinationTwoViewController.swift in Sources */,
+				855C3A5720616190008F0A37 /* computerViewController.swift in Sources */,
+				855C3A5820616190008F0A37 /* dogsViewController.swift in Sources */,
+				855C3A5920616190008F0A37 /* drawLineView.swift in Sources */,
+				855C3A5A20616190008F0A37 /* emojiViewController.swift in Sources */,
+				855C3A5B20616190008F0A37 /* lollipopViewController.swift in Sources */,
+				855C3A5C20616190008F0A37 /* passController.swift in Sources */,
+				855C3A5D20616190008F0A37 /* passwordOneViewController.swift in Sources */,
+				855C3A5E20616190008F0A37 /* passwordThreeViewController.swift in Sources */,
+				855C3A5F20616190008F0A37 /* passwordTwoViewController.swift in Sources */,
+				855C3A6020616190008F0A37 /* permViewController.swift in Sources */,
+				855C3A6120616190008F0A37 /* rootViewController.swift in Sources */,
+				855C3A6220616190008F0A37 /* telephoneViewController.swift in Sources */,
+				855C3A6320616190008F0A37 /* weddingViewController.swift in Sources */,
+				855C3A6420616190008F0A37 /* wordController.swift in Sources */,
+				855C3A5220616069008F0A37 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		85FCC5AD20603D7200FF9D62 /* Main.storyboard */ = {
+		855C3A4C206159C4008F0A37 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				85FCC5AE20603D7200FF9D62 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		85FCC5B220603D7200FF9D62 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				85FCC5B320603D7200FF9D62 /* Base */,
+				855C3A4D206159C4008F0A37 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		855C3A4E206159C4008F0A37 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				855C3A4F206159C4008F0A37 /* Base */,
+			);
+			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -274,11 +359,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7Q9DA4ZX6A;
 				INFOPLIST_FILE = testApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = edu.ithaca.testApp;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.ithaca.combinatorics;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -288,10 +376,12 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 7Q9DA4ZX6A;
 				INFOPLIST_FILE = testApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = edu.ithaca.testApp;
+				PRODUCT_BUNDLE_IDENTIFIER = edu.ithaca.combinatorics;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
